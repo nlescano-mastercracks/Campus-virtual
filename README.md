@@ -3,8 +3,6 @@
 
 # Integrantes : 
 
-## González Nicolás
-## Lescano Nicolás
-## Cristian Pinto
+## González Nicolás, Lescano Nicolás, Cristian Pinto
 
 # Docente : Alejandro Vazquez
